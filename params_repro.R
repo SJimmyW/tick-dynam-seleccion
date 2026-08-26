@@ -29,7 +29,7 @@
   nprogenie <- ceiling(nmadrescampo * repro_H$pdest)
   
   pmadres <- c( reposicion_madres / 100,
-                 0.2037599, 0.2007277, 0.1958763, 0.189812) # 0.2, 0.2, 0.2, 0.2)
+               0.2, 0.2, 0.2, 0.2) #  0.2037599, 0.2007277, 0.1958763, 0.189812) 
                 
   repro_M <- list( porcentaje_padres   = porcentaje_padres,
                    reposicion_padres   = reposicion_padres,
